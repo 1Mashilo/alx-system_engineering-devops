@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alnH
+ls -al
