@@ -1,3 +1,5 @@
+#!/usr/bin/pup
+
 # This Puppet manifest defines a file resource for creating a file named 'school'
 # in the '/tmp' directory with specific ownership, permissions, and content.
 
