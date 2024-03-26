@@ -15,4 +15,3 @@ passphrase="betty"
 ssh-keygen -t rsa -b "$bits" -f "$private_key" -N "$passphrase"
 
 echo "RSA key pair created successfully."
-
