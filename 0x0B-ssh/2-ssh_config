@@ -2,7 +2,7 @@
 
 # SSH client configuration
 
-Host *
+Host 172.17.0.24
     IdentityFile ~/.ssh/school
     PasswordAuthentication no
-
+    User ubuntu
