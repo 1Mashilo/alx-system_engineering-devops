@@ -35,7 +35,7 @@ file { '/var/www/html/index.html':
 
 # create index file
 file { '/var/www/html/404.html':
-  content => "Ceci n'est pas une page\n",
+  content => "this is not a page\n",
 }
 
 # add redirection and error page
